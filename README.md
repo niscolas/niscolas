@@ -1,15 +1,18 @@
 # Hi, name's Nícolas Catarina <img src="https://c.tenor.com/BlM254E365cAAAAi/sun-smiling.gif" width=30> (or just niscolas :detective:)
 
-> :computer: `[ Computer Technician && Digital Games Technologist && Game Developer ]`
+> :computer: [ Computer Technician && Digital Games Technologist && Game Developer ]
 
-:superhero: I'm a professional Game Developer, currently working as a `C#` and `Unity` freelancer. My other main skills are detailed below :point_down: <br>
-:bulb: Just love to work with games and sharp my skills, always improving :upside_down_face:
+- 🦸 I'm a professional Game Developer from Brazil 🇧🇷 <br>
+- 🔨 Currently working as a `C#` and `Unity` freelancer. My other main skills are detailed below 👇 <br>
+- 🎮 Just love to work with games and sharp my skills, always improving 🙃 <br>
+- 💡 I love ❤️ emojis 😄 and actually playing some games too 🕹️
 
 <br>
 
 ## :hammer_and_wrench: Languages, Technologies and Tools
 
 ### :computer: Dev
+---
 
 <img
     alt="C# Logo"
@@ -53,6 +56,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
 ### :art: Art and Management
+---
 
 <img
     alt="Notion Logo"
@@ -71,6 +75,8 @@
     height=45
     src="https://img.icons8.com/color/240/000000/gimp.png">
 
+<br>
+
 ## :joystick: Game Projects
 
 - [:question: :package: Best Lost n' Found][best_lost_n_found-gamejolt_link]
@@ -81,10 +87,16 @@
 ## :star: Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=niscolas&count_private=true&custom_title=My GitHub Stats&show_icons=true&theme=tokyonight">
+    <img
+        alt="GitHub Stats"
+        height=160
+        src="https://github-readme-stats.vercel.app/api?username=niscolas&count_private=true&custom_title=My GitHub Stats&show_icons=true&theme=tokyonight">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niscolas&hide=java&layout=compact&theme=tokyonight">
+    <img
+        alt="Most Used Languages"
+        height=160
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=niscolas&hide=java&layout=compact&theme=tokyonight">
 </a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
