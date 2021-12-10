@@ -23,20 +23,68 @@
 ## :hammer_and_wrench: Languages, Technologies and Tools
 ---
 
-<p class="skill-icon-container">
-    <img alt="csharp-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img alt="unity-logo" src="https://thumbs.bfldr.com/at/rrtps8nmcpsxq5jqgt9ff5/v/1011243161?expiry=1639702118&fit=bounds&height=800&sig=MWFhOTY5YzQ0Y2Y0ZjM3NjczZTE0NzhkOTFkMmNiZGMyOTA0MzBlNQ%3D%3D&width=1100">
-    <img alt="linux-tux-logo" src="https://img.icons8.com/color/240/000000/linux--v1.png">
-    <img alt="vim-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-    <img alt="unreal-engine-logo" src="https://img.icons8.com/color/240/000000/unreal-engine.png">
-    <img alt="rider-logo" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg?_gl=1*1y5ya1z*_ga*MTIwNTgzMDkyMC4xNjM2NjQ1NzAz*_ga_V0XZL7QHEB*MTYzOTEwNjI1NC40LjAuMTYzOTEwNjI1Ni4w">
-    <img alt="git-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img alt="github-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img alt="gitlab-logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-    <img alt="blender-logo" src="https://img.icons8.com/color/240/000000/blender-3d.png">
-    <img alt="inkscape-logo" src="https://img.icons8.com/color/240/000000/inkscape.png">
-    <img alt="gimp-logo" src="https://img.icons8.com/color/240/000000/gimp.png">
-</p>
+<div>
+    <img
+        alt="C# Logo"
+        height=60
+        margin-right=10
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img
+        alt="Unity Logo"
+        height=60
+        margin-right=10
+        src="https://thumbs.bfldr.com/at/rrtps8nmcpsxq5jqgt9ff5/v/1011243161?expiry=1639702118&fit=bounds&height=800&sig=MWFhOTY5YzQ0Y2Y0ZjM3NjczZTE0NzhkOTFkMmNiZGMyOTA0MzBlNQ%3D%3D&width=1100">
+    <img
+        alt="Linux Tux Logo"
+        height=60
+        margin-right=10
+        src="https://img.icons8.com/color/240/000000/linux--v1.png">
+    <img
+        alt="Vim Logo"
+        height=60
+        margin-right=10
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+    <img
+        alt="Unreal Engine Logo"
+        height=60
+        margin-right=10
+        src="https://img.icons8.com/color/240/000000/unreal-engine.png">
+    <img
+        alt="Jetbrains Rider Logo"
+        height=60
+        margin-right=10
+        src="https://resources.jetbrains.com/storage/products/company/brand/logos/Rider_icon.svg?_gl=1*1y5ya1z*_ga*MTIwNTgzMDkyMC4xNjM2NjQ1NzAz*_ga_V0XZL7QHEB*MTYzOTEwNjI1NC40LjAuMTYzOTEwNjI1Ni4w">
+    <img
+        alt="Git Logo"
+        height=60
+        margin-right=10
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img
+        alt="GitHub Logo"
+        height=60
+        margin-right=10
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img
+        alt="GitLab Logo"
+        height=60
+        margin-right=10
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+    <img
+        alt="blender Logo"
+        height=60
+        margin-right=10
+        src="https://img.icons8.com/color/240/000000/blender-3d.png">
+    <img
+        alt="Inkscape Logo"
+        height=60
+        margin-right=10
+        src="https://img.icons8.com/color/240/000000/inkscape.png">
+    <img
+        alt="GIMP Logo"
+        height=60
+        margin-right=10
+        src="https://img.icons8.com/color/240/000000/gimp.png">
+</div>
 
 <br>
 
