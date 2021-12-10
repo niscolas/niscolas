@@ -1,6 +1,6 @@
 # Hi, name's Nícolas Catarina <img src="https://c.tenor.com/BlM254E365cAAAAi/sun-smiling.gif" width=30> (or just niscolas :detective:)
 
-> :computer: [ Computer Technician && Digital Games Technologist && Game Developer ]
+> <span style="font-size:16px; font-family:Courier"> :computer: [ Computer Technician && Digital Games Technologist && Game Developer ] </span>
 
 - 🦸 I'm a professional Game Developer from Brazil 🇧🇷 <br>
 - 🔨 Currently working as a `C#` and `Unity` freelancer. My other main skills are detailed below 👇 <br>
