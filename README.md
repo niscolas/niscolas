@@ -98,11 +98,12 @@
         height=160
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=niscolas&hide=java&layout=compact&theme=tokyonight">
 </a>
-<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=niscolas">
+    <img
+        alt="Wakatime Stats"
+        height=160
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=niscolas&theme=tokyonight">
 </a>
--->
 
 <br>
 
@@ -115,7 +116,7 @@
 <a href="hhttps://www.fiverr.com/pajamaunicorns">
     <img
         alt="My Fiverr"
-        src="https://img.shields.io/badge/Fiveerr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
+        src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
         style="margin-right:5px">
 </a>
 <a href="https://gamejolt.com/@Bitten-Sweet">
