@@ -1,4 +1,4 @@
-# Hi, name's Nícolas Catarina <img src="https://c.tenor.com/BlM254E365cAAAAi/sun-smiling.gif" width=30> (or just niscolas :detective:)
+# Hi, name's Nicolas Catarina <img src="https://c.tenor.com/BlM254E365cAAAAi/sun-smiling.gif" width=30> (or just niscolas :detective:)
 
 > <span style="font-size:16px; font-family:Courier"> :computer: [ Computer Technician && Digital Games Technologist && Game Developer ] </span>
 
@@ -29,10 +29,10 @@
 <img
     alt="Vim Logo"
     height=45
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
+    src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/240/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-shadow-tal-revivo.png">
 <img
     alt="Unreal Engine Logo"
-    height=45
+    height=50
     src="https://img.icons8.com/color/240/000000/unreal-engine.png">
 <img
     alt="Jetbrains Rider Logo"
@@ -61,11 +61,13 @@
 <img
     alt="Notion Logo"
     height=45
-    src="https://img.icons8.com/color/240/000000/notion--v1.png">
+    src="https://img.icons8.com/color/240/000000/notion--v1.png"
+    style="margin-right: 5px">
 <img
     alt="blender Logo"
     height=45
-    src="https://img.icons8.com/color/240/000000/blender-3d.png">
+    src="https://img.icons8.com/color/240/000000/blender-3d.png"
+    style="margin-right: 5px">
 <img
     alt="Inkscape Logo"
     height=45
