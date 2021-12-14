@@ -1,0 +1,10 @@
+{
+  "name": "niscolas-github-profile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niscolas/niscolas.git"
+  },
+  "devDependencies": {
+    "juice": "^8.0.0"
+  }
+}
