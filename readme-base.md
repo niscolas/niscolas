@@ -113,47 +113,49 @@
 
 ## :telephone: Contact
 
-<img
-    alt="My Discord User ID"
-    class="base-contact-badge"
-    src="https://img.shields.io/badge/Discord-niscolas_0609-565B65?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white">
-<a href="hhttps://www.fiverr.com/pajamaunicorns">
+<p>
     <img
-        alt="My Fiverr"
+        alt="My Discord User ID"
         class="base-contact-badge"
-        src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
-</a>
-<a href="https://gamejolt.com/@Bitten-Sweet">
-    <img
-        alt="My GameJolt"
-        class="base-contact-badge"
-        src="https://img.shields.io/badge/GameJolt-2F7F6F?style=for-the-badge&logo=gamejolt&logoColor=white">
-</a>
-<a href="https://gitlab.com/niscolas">
-    <img
-        alt="My GitLab"
-        class="base-contact-badge"
-        src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/niscolas">
-    <img
-        alt="My LinkedIn"
-        class="base-contact-badge"
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://wa.me/5531988598280">
-    <img
-        alt="My Whatsapp"
-        class="base-contact-badge"
-        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+        src="https://img.shields.io/badge/Discord-niscolas_0609-565B65?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white">
+    <a href="https://www.fiverr.com/pajamaunicorns">
+        <img
+            alt="My Fiverr"
+            class="base-contact-badge"
+            src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
+    </a>
+    <a href="https://gamejolt.com/@Bitten-Sweet">
+        <img
+            alt="My GameJolt"
+            class="base-contact-badge"
+            src="https://img.shields.io/badge/GameJolt-2F7F6F?style=for-the-badge&logo=gamejolt&logoColor=white">
+    </a>
+    <a href="https://gitlab.com/niscolas">
+        <img
+            alt="My GitLab"
+            class="base-contact-badge"
+            src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/niscolas">
+        <img
+            alt="My LinkedIn"
+            class="base-contact-badge"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://wa.me/5531988598280">
+        <img
+            alt="My Whatsapp"
+            class="base-contact-badge"
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
 
 [best_lost_n_found-gamejolt_link]: https://gamejolt.com/games/bestlostnfound/604915
 [geena-gamejolt_link]: https://gamejolt.com/games/geena/604636
 
 <style>
     .base-contact-badge {
-        margin-right: 7px;
+        margin-right: 4px;
     }
 
     .base-skill {
