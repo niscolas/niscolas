@@ -1,4 +1,4 @@
-# > Hi, name's ( Nicolas Catarina Parreiras <img src="https://c.tenor.com/BlM254E365cAAAAi/sun-smiling.gif" width="30"> )
+# > Hi, name's ( Nicolas <img src="https://c.tenor.com/BlM254E365cAAAAi/sun-smiling.gif" width="30"> )
 
 > <span style="font-size:16px; font-family:Courier"> :computer: [ Computer Technician && Digital Games Technologist && Game Developer ] </span>
 
