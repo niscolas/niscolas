@@ -9,9 +9,9 @@
 - 💡 I really like using emojis to make communication more efficient and visually appealing ❤️
 - 🎮 Love to work with games and sharpen my skills, always improving!
 
-## 🧰 Check Out my full Portfolio!
+## 🧰 Check out my full Portfolio!
 <a href="[https://www.fiverr.com/pajamaunicorns](https://niscolas.notion.site/Hi-name-s-N-colas-02c55ab2a8174fe0a409477f00292c81?pvs=74)">
-        <img alt="My full Portfolio, on Notion" class="base-contact-badge" src="https://img.shields.io/badge/Portfolio%20on%20Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-right: 4px;">
+        <img alt="My full Portfolio, on Notion" class="base-contact-badge" src="https://img.shields.io/badge/Portfolio_on_Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-right: 4px;">
 </a>
 
 ## :telephone: Contact
@@ -22,7 +22,7 @@
     </a>
         &nbsp
     <a href="mailto:niscolas@proton.me">
-        <img alt="My LinkedIn" class="base-contact-badge" src="https://img.shields.io/badge/Email%20Me!-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" style="margin-right: 4px;">
+        <img alt="My LinkedIn" class="base-contact-badge" src="https://img.shields.io/badge/Email_Me!-niscolas@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" style="margin-right: 4px;">
     </a>
         &nbsp
     <img alt="My Discord User ID" class="base-contact-badge" src="https://img.shields.io/badge/Discord-niscolas_0609-565B65?style=for-the-badge&labelColor=5865F2&logo=discord&logoColor=white" style="margin-right: 4px;">
