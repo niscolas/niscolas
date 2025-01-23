@@ -21,7 +21,7 @@
         <img alt="My LinkedIn" class="base-contact-badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right: 4px;">
     </a>
         &nbsp
-    <a href="niscolas@proton.me">
+    <a href="mailto:niscolas@proton.me">
         <img alt="My LinkedIn" class="base-contact-badge" src="https://img.shields.io/badge/Email%20Me!-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" style="margin-right: 4px;">
     </a>
         &nbsp
