@@ -2,12 +2,12 @@
 
 > <span style="font-size:16px; font-family:Courier"> 💻 [ Professional Game Developer && Computer Technician && Digital Games Technologist ] </span>
 
-- 🦸🏽 I'm a professional Game Developer from Brazil 🇧🇷
-- 🗓️ I’ve 9 years of Software Development Experience and 6 years of Game Development Experience with Unity, Unreal and Godot
-- 🕹️ Worked on several game titles as a Leading, Consultant, and Freelancer Game Developer
-- 🔨 Currently working as a Senior Game Developer @ Globant’s Game Studio
-- 💡 I really like using emojis to make communication more efficient and visually appealing ❤️
-- 🎮 Love to work with games and sharpen my skills, always improving!
+- 🎮 Professional Game Developer from Brazil with 8+ years of software development experience and 5+ years in game development, specializing in Unity, Unreal, and Godot
+- 🕹️ Worked on multiple game titles, mainly with Gameplay Programming, Game UI, and Tooling
+- 🛠️ Skilled in Game AI, Testing/Automation, and Linux, with foundational knowledge in 2D/3D Art and Tech Art, enabling seamless collaboration across disciplines
+- 🔨 Currently working as a Senior Game Developer at Globant’s Game Studio, contributing to high-profile projects like Zynga’s Harry Potter: Puzzles and Spells
+- 💡 Love to use emojis to make communication more efficient and visually appealing
+- 🚀 Always striving to improve my skills and deliver innovative, high-quality results in the projects I work on!
 
 ## 🧰 Check out my full Portfolio!
 <a href="[https://www.fiverr.com/pajamaunicorns](https://niscolas.notion.site/Hi-name-s-N-colas-02c55ab2a8174fe0a409477f00292c81?pvs=74)">
