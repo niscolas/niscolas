@@ -5,7 +5,7 @@
 - 🎮 Professional Game Developer from Brazil with 8+ years of software development experience and 5+ years in game development, specializing in Unity, Unreal, and Godot
 - 🕹️ Worked on multiple game titles, mainly with Gameplay Programming, Game UI, and Tooling
 - 🛠️ Skilled in Game AI, Testing/Automation, and Linux, with foundational knowledge in 2D/3D Art and Tech Art, enabling seamless collaboration across disciplines
-- 🔨 Currently working as a Senior Game Developer at Globant’s Game Studio, contributing to high-profile projects like Zynga’s Harry Potter: Puzzles and Spells
+- 🔨 Contributed to high-profile projects like Zynga’s Harry Potter: Puzzles and Spells
 - 💡 Love to use emojis to make communication more efficient and visually appealing
 - 🚀 Always striving to improve my skills and deliver innovative, high-quality results in the projects I work on!
 
