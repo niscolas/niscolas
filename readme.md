@@ -10,8 +10,8 @@
 - 🚀 Always striving to improve my skills and deliver innovative, high-quality results in the projects I work on!
 
 ## 🧰 Check out my full Portfolio!
-<a href="https://niscolas.notion.site/Hi-name-s-N-colas-02c55ab2a8174fe0a409477f00292c81?pvs=74">
-        <img alt="My full Portfolio, on Notion" class="base-contact-badge" src="https://img.shields.io/badge/Portfolio_on_Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-right: 4px;">
+<a href="https://niscolas.github.io/portfolio/">
+        <img alt="My full Portfolio" class="base-contact-badge" src="https://img.shields.io/badge/Portfolio_on_Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-right: 4px;">
 </a>
 
 ## :telephone: Contact
