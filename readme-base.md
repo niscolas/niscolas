@@ -11,7 +11,7 @@
 
 ## 🧰 Check out my full Portfolio!
 <a href="https://niscolas.github.io/portfolio/">
-        <img alt="My full Portfolio" class="base-contact-badge" src="https://img.shields.io/badge/Portfolio_on_Notion-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-right: 4px;">
+        <img alt="My full Portfolio" class="base-contact-badge" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" style="margin-right: 4px;">
 </a>
 
 ## :telephone: Contact
